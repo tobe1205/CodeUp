@@ -52,6 +52,7 @@ public class Main {
 
         System.out.printf("%04d.%02d.%02d",A,B,C);
 
+
     }
 }
 
