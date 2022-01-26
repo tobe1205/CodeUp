@@ -57,6 +57,7 @@ public class Main {
         double div2 = 8*(2<<9)*(2<<9);
         System.out.printf("%.2f MB", (w*h*b)/ div2);
 
+
         //================================
 
     }
