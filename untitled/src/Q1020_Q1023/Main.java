@@ -1,4 +1,4 @@
-package practice03;
+package Q1020_Q1023;
 
 import java.util.Scanner;
 

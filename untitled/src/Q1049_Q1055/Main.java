@@ -1,4 +1,4 @@
-package practice06;
+package Q1049_Q1055;
 
 import java.util.Scanner;
 
