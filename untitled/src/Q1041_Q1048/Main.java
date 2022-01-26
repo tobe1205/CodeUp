@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         /*//1041번문제
         Scanner sc = new Scanner(System.in);
         char str = sc.nextLine().charAt(0);
