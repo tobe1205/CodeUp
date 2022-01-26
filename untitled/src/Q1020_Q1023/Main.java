@@ -10,6 +10,8 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+
+
         //1020번 주민번호 입력받아 형태 바꿔 출력하기기
         /*Stringn = sc.next();
         n = n.replace("-","");
