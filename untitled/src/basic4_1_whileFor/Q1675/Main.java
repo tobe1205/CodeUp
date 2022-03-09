@@ -12,7 +12,7 @@ public class Main {
         String n = br.readLine();
 
         for (int i=0; i<n.length(); i++) {
-            if (n.charAt(i)==32) {
+            if (n.charAt(i)==32) { //32번은 스페이스(띄어쓰기)
                 sb.append(' ');
             } else if (n.charAt(i)<100) {
                 sb.append((char)(122-(99-n.charAt(i))));
