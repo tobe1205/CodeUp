@@ -19,6 +19,7 @@ public class Main {
                 for (int j = i + 2; j <= n; j += 2) { // i+2부터 길이 n값까지, j값이 2씩 증가할때마다
                     System.out.print(" ");  //공백 출력
                 }
+
             }
         }
     }
