@@ -22,5 +22,6 @@ public class Answer2 {
         }
         System.out.print(sb);
         br.close();
+
     }
 }
