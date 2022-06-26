@@ -27,6 +27,6 @@ public class Main {
         } else {
             System.out.print("bad");
         }
-        br.close();
+
     }
 }
