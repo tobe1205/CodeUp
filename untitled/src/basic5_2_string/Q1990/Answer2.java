@@ -17,7 +17,6 @@ public class Answer2 {
             String num = String.valueOf(n.charAt(i));
             sum += Integer.parseInt(num);
         }
-
         if (sum % 3 == 0) {
             System.out.print("1");
         } else {
