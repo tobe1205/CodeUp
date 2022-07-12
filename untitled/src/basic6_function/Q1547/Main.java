@@ -19,6 +19,7 @@ public class Main {
     }
 
 
+
     static boolean prime(int n) {
         if (n == 2) {
             return true;
