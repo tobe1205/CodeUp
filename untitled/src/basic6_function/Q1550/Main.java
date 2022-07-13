@@ -14,6 +14,7 @@ public class Main {
     }
 
     private static long sqrt(long n) {
-        return (int) Math.sqrt(n);
+        int result = (int) Math.sqrt(n);
+        return result;
     }
 }
