@@ -17,6 +17,7 @@ public class Main {
 
 //        System.out.print(min(n,m));
 
+
         min(n,m);
     }
 //
