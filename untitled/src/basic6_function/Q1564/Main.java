@@ -23,8 +23,8 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        int a = Integer.parseInt(st.nextToken());
-        int b = Integer.parseInt(st.nextToken());
+         a = Integer.parseInt(st.nextToken());
+         b = Integer.parseInt(st.nextToken());
 
         System.out.println(gcd(a, b));
     }
